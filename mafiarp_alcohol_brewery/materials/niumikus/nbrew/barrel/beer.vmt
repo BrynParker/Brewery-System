@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "niumikus/nbrew/barrel/beer"
+	$phong 1
+}

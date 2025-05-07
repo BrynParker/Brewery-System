@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "niumikus/nbrew/spiritbottle/default_label"
+	$phong 1
+}

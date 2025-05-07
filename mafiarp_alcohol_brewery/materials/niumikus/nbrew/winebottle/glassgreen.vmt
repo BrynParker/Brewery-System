@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "niumikus/nbrew/winebottle/glassgreen"
+	$envmaptint "[0.3 0.3 .0.3]"
+	$envmap env_cubemap
+	$envmapfresnel 1
+	$phong 1
+}
